@@ -1,0 +1,8 @@
+{
+  "DATABASE:monitorado:CONNECT:postgres": true,
+  "DATABASE:monitorado:CONNECT:template0": true,
+  "DATABASE:monitorado:CONNECT:template1": true,
+  "DATABASE:monitorado:CONNECT:testdb": true,
+  "TABLE:monitorado:SELECT:public:teste": true,
+  "TABLE:monitorado:UPDATE:public:teste": true
+}
